@@ -1,0 +1,438 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Rich\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-26 11:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: blog-rich"
+
+#: template-parts/content.php:17
+msgid " "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#: functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "All Blog Rich theme settings"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Blog Intro Settings"
+msgstr ""
+
+#. Name of the theme
+msgid "Blog Rich"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Blog Rich Header Settings"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Blog Rich Page Settings"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Blog Rich Settings"
+msgstr ""
+
+#: inc/customizer.php:215 inc/customizer.php:278
+msgid "Blog Rich theme blog settings"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Blog Rich theme header settings"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Blog Rich Theme settings"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "Build With %1$s by %2$s."
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Button one text"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Button one url"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Classic Style"
+msgstr ""
+
+#: inc/recomended-plugin.php:85
+msgid "Click To Top"
+msgstr ""
+
+#: actions/header-actions.php:120
+msgid "Close"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer.php:227
+msgid "Container type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:74
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: actions/home-intro.php:21 inc/customizer.php:155
+msgid "Creative Blog."
+msgstr ""
+
+#: inc/recomended-plugin.php:90
+msgid "Easy Share"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:104 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/recomended-plugin.php:70
+msgid "Elementor"
+msgstr ""
+
+#: actions/home-intro.php:20 inc/customizer.php:142
+msgid "Exploring Our"
+msgstr ""
+
+#: inc/customizer.php:234 inc/customizer.php:297
+msgid "Full width Container"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Grid Style"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Hide All Pages"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Hide Only Front Page"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Hide Site Tagline Only? "
+msgstr ""
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpthemespace.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpthemespace.com/product/blog-rich/"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Image size should be 450px width & 460px height for better view."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Intro Color Title"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Intro Description"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Intro Subtitle"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Intro Title"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Keep url empty for hide this button"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "List Style"
+msgstr ""
+
+#: inc/recomended-plugin.php:75
+msgid "Magical Addon"
+msgstr ""
+
+#: inc/recomended-plugin.php:95
+msgid "Magical Blocks"
+msgstr ""
+
+#: inc/recomended-plugin.php:104
+msgid "Magical Products Display"
+msgstr ""
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: actions/header-actions.php:119
+msgid "Menu"
+msgstr ""
+
+#: inc/recomended-plugin.php:65
+msgid "MG Posts Display"
+msgstr ""
+
+#: single.php:41
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "No Sidebar"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor Alam"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: actions/home-intro.php:23 inc/customizer.php:182
+msgid "Our Blogs"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Page Container type"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:88
+msgid "Pages:"
+msgstr ""
+
+#: inc/recomended-plugin.php:80
+msgid "Password Proctected"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Portfoli profile Intro Settings"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:70
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: single.php:40
+msgid "Previous:"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/content-grid.php:46 template-parts/content-list.php:49
+msgid "Read More "
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Description of the theme
+msgid "Rich Blog is a Elegant WordPress Theme for Bloggers. As a blogger"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Select Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Show all pages"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Show Home Banner? "
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Show Page header"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:233 inc/customizer.php:296
+msgid "Standard Container"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Style Two"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:77
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: template-parts/content.php:18
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Upload Banner Image"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "WELCOME TO MY WORLD"
+msgstr ""
+
+#: actions/home-intro.php:19
+msgid "Welcome To Our Rich Blog"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "You can set standard container or full width container for page. "
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "You can set standard container or full width container. "
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "You can set the menu style one or two. "
+msgstr ""

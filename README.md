@@ -1,7 +1,7 @@
 ### devpart
 
-1.create docker-compose file
-2.create folder "wordpress"
+- create docker-compose file
+- create folder "wordpress"
 
 exe below
 

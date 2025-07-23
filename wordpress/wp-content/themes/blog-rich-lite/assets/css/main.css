@@ -1,0 +1,126 @@
+:root {
+    --color-primary: #FD6480;
+    --color-primary2: #6a4ee9;
+}
+body {
+    font-family: "Urbanist", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+}
+a,
+.entry-meta span,
+.entry-footer span,
+.entry-meta a,
+.ghead-meta {
+    color: var(--color-primary);
+}
+
+.menubar-content h1.site-title {
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.is-fixed .menubar-content h1.site-title {
+    font-size: 20px;
+}
+.main-navigation ul li a {
+    padding: 5px 10px;
+    text-transform: inherit;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.header .header-top{
+    box-shadow: var(--shadow-light);
+}
+.menubar-content {
+    padding: 10px 0;
+}
+input[type="submit"],
+button,
+a#clickTop{
+    color: var(--color-black);
+}
+input[type="submit"]:hover,
+button:hover,
+a#clickTop:hover{
+    color: var(--white);
+}
+.pxm-style1 .main-navigation ul li a {
+    text-transform: inherit;
+    font-size: 16px;
+    font-weight: 600;
+}
+.pagination .nav-links a:hover,
+.pagination .nav-links span,
+input[type="submit"],
+button,
+a#clickTop {
+    color: #fff;
+}
+h2.entry-title a,
+h2.entry-title {
+    font-size: 1.5rem;
+}
+.widget h2,
+h2.widget-title,
+.grid-center{
+    text-align: center;
+}
+
+.grid-left{
+    text-align: left;
+}
+.grid-right{
+    text-align: right;
+}
+.widget h2:after,
+h2.widget-title:after {
+    width: 100%;
+}
+a.blog-rich-readmore {
+    text-decoration: inherit;
+}
+.widget h2:before,
+h2.widget-title:before {
+    right: 0;
+    margin-left: auto;
+    z-index: 99;
+    left: 0;
+    margin-right: auto;
+}
+.wp-block-search__inside-wrapper {
+    display: flex;
+}
+.beye-grid .blog-rich-text-inner {
+    text-align: center;
+}
+.archive-header h1,
+.search-header h1 {
+    font-size: 18px;
+    color: var(--color-primary);
+}
+
+.archive-header h1 span,
+.search-header h1 span {
+    display: block;
+    font-size: 40px;
+    color: var(--black);
+    margin-top: 5px;
+}
+.menu-bar.is-fixed {
+    padding: 7px;
+}
+.main-navigation ul li:hover ul,
+.main-navigation ul li.hover ul {
+    top: 40px;
+}
+.site-info a {
+    text-decoration: inherit;
+}
